@@ -16,3 +16,4 @@ cleaned = load_and_clean_ipc_text(file_path)
 # Print the first few cleaned lines
 for i, line in enumerate(cleaned):
     print(f"{i+1}: {line}")
+
