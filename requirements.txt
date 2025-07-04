@@ -1,2 +1,6 @@
 transformers
 torch
+chromadb 
+langchain
+langchain_community
+langchain_chroma
